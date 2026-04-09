@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Library file for the Prevent Copy plugin.
+ * Russian language strings for the Prevent Copy plugin.
  *
  * @package     local_preventcopy
  * @copyright   2025 Vinit Prajapati <vinit4ce@gmail.com>
@@ -40,4 +40,3 @@ $string['privacy:metadata'] = 'Плагин «Запрет копировани�
 
 $string['studentrole'] = 'Роль студента';
 $string['studentroledesc'] = 'Отключить правый клик, копирование и вставку для студентов на страницах курса.';
-
